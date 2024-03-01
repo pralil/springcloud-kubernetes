@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "msvc.cursos.url",
+  "type": "java.lang.String",
+  "description": "A description for 'msvc.cursos.url'"
+}]}
